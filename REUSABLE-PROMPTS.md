@@ -6,7 +6,7 @@ Ready-to-run examples: [all 12 Codex 10x actions](WORKFLOW-EXAMPLES.md).
 
 ## 1. Finish one verified outcome
 
-*Use for builds, fixes, demos, and deliverables.*
+**Slug:** `ship-verified-outcome` — Builds or fixes one deliverable, verifies its behavior, and reports completion evidence.
 
 ```text
 Complete [OUTCOME] in [REPO/PROJECT].
@@ -20,7 +20,7 @@ Continue until the completion criteria pass or a concrete blocker prevents progr
 
 ## 2. Turn evidence into a decision
 
-*Use for customer calls, architecture choices, account strategy, and leadership updates.*
+**Slug:** `evidence-to-decision` — Produces a recommendation, customer talk track, risks, and the next validation step.
 
 ```text
 Help [AUDIENCE] decide [DECISION].
@@ -33,7 +33,7 @@ Produce a concise decision brief: recommendation, evidence, risks, questions tha
 
 ## 3. Reconcile and resume existing work
 
-*Use for studio operations, stalled projects, handoffs, and weekly reviews.*
+**Slug:** `reconcile-and-resume` — Rechecks project or studio status and advances one authorized step without repeating completed work.
 
 ```text
 Audit and resume [PROJECT/WORKFLOW].
@@ -46,7 +46,7 @@ Execute the highest-value bounded next step within authorization. Update the exi
 
 ## 4. Convert sources into a reusable asset
 
-*Use for tab groups, videos, documentation, meeting notes, and research.*
+**Slug:** `sources-to-asset` — Converts tabs, docs, videos, or notes into a ranked action guide with sources.
 
 ```text
 Convert [SOURCES] into [ARTIFACT] for [AUDIENCE/GOAL].
@@ -59,7 +59,7 @@ For each action, give the trigger, concrete next step, expected result, and sour
 
 ## 5. Learn, apply, and explain
 
-*Use for technical mastery, interviews, discovery practice, and executive communication.*
+**Slug:** `learn-apply-explain` — Coaches technical or executive practice through an attempt, correction, retry, and transfer test.
 
 ```text
 Coach me on [TOPIC/SKILL] for [REAL SCENARIO/AUDIENCE].
