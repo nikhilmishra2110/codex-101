@@ -2,6 +2,8 @@
 
 Ranked by expected usefulness across builds, SA work, studios, research, and coaching. Replace bracketed inputs and copy one prompt.
 
+Ready-to-run examples: [all 12 Codex 10x actions](WORKFLOW-EXAMPLES.md).
+
 ## 1. Finish one verified outcome
 
 *Use for builds, fixes, demos, and deliverables.*
